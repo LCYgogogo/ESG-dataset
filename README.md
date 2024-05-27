@@ -36,11 +36,11 @@ The primary purpose of this dataset is to evaluate the completeness of ESG repor
 To use this dataset, you can clone the repository and load the data files into your preferred data analysis environment.
 
 ```bash
-git clone https://github.com/LCYgogogo/ESG-Multiclass-Dataset.git
+git clone https://github.com/LCYgogogo/ESG-dataset.git
 
 @dataset{esg_multiclass_2024,
   author    = {Anonymous},
   title     = {ESG Multiclass Dataset},
   year      = {2024},
-  url       = {https://github.com/yourusername/ESG-Multiclass-Dataset},
+  url       = {https://github.com/LCYgogogo/ESG-dataset},
 }
