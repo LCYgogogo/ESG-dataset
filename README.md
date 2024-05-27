@@ -1,19 +1,3 @@
-# ESG-dataset Background
-Comprehensive ESG dataset from Chinese listed companies' reports (listed companies from 2008 to 2022?). ESG reports serve as an essential platform for companies to disclose their economic, environmental, and social impacts, reflecting their contributions to sustainable development goals. With the increasing demand for corporate transparency, ethical business practices, and sustainable development, ESG reports have gained significant attention from both academia and practitioners.
-
-# Dataset Content
-
-
-
-# Dataset Purpose
-
-The primary purpose of this dataset is to evaluate the completeness of ESG reports. Currently, it is mainly used for ESG classification to measure the completeness of ESG reports. However, this dataset has a broad potential for various other purposes, such as:
-
-- Automated generation and optimization of ESG reports
-- Content analysis and trend prediction of ESG reports
-- Development of decision support systems for investment
-- Evaluation of corporate social responsibility (CSR) strategies
-
 # ESG Multiclass Dataset
 
 Comprehensive ESG dataset from Chinese listed companies' reports (listed companies from 2008 to 2022?). ESG reports serve as an essential platform for companies to disclose their economic, environmental, and social impacts, reflecting their contributions to sustainable development goals. With the increasing demand for corporate transparency, ethical business practices, and sustainable development, ESG reports have gained significant attention from both academia and practitioners.
@@ -36,6 +20,16 @@ Quality Labels: Divided into three categories: "Quantitative Text," "Qualitative
   - `esgdata.xlsx` - Contains all data points and labels.
 - **README.md** - This documentation file.
 - **LICENSE** - The license for the dataset.
+
+# Dataset Purpose
+
+The primary purpose of this dataset is to evaluate the completeness of ESG reports. Currently, it is mainly used for ESG classification to measure the completeness of ESG reports. However, this dataset has a broad potential for various other purposes, such as:
+
+- Automated generation and optimization of ESG reports
+- Content analysis and trend prediction of ESG reports
+- Development of decision support systems for investment
+- Evaluation of corporate social responsibility (CSR) strategies
+  
 
 ## Usage
 
