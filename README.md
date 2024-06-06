@@ -22,7 +22,7 @@ The ESGTree provides a structured hierarchy of ESG indicators used in the datase
 
 The bar chart above represents the distribution of sentence topics across the 36 categories. This visualization helps in understanding the prevalence of each topic within the ESG reports.
 
-![ESGTree](fig/ESGTree.png)
+![ESGTree](fig/topic_label_bar.png)
 
 Quality Labels: Divided into two categories: "Quantitative Text", "Qualitative Text".
 
@@ -30,7 +30,7 @@ Quality Labels: Divided into two categories: "Quantitative Text", "Qualitative T
 
 The bar chart above illustrates the distribution of sentence quality labels within the dataset. It categorizes the sentences into "irrelevant text," "quantitative text," and "qualitative text," with the respective counts for each category.
 
-![ESGTree](fig/ESGTree.png)
+![ESGTree](fig/quality_label_bar.png)
 
 ## File Structure
 
