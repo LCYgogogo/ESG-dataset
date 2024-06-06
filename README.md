@@ -9,6 +9,7 @@ Comprehensive ESG dataset from Chinese listed companies' reports. ESG reports se
 ## Dataset Description
 
 The dataset consists of two core parts: the topic label dataset and the quality label dataset. Specifically:
+![Sentence Count Distribution](fig/ESGTree.pdf)
 
 Annotated Dataset: A total of 8,467 sentences were annotated, each with two labels: topic and quality.
 Topic Labels: Classified into 36 different categories, covering various aspects such as climate change, employee health and safety, community engagement, and more.
