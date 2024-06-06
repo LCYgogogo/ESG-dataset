@@ -1,6 +1,6 @@
 # ESG Multiclass Dataset
 
-Comprehensive ESG dataset from Chinese listed companies' reports (listed companies from 2008 to 2022?). ESG reports serve as an essential platform for companies to disclose their economic, environmental, and social impacts, reflecting their contributions to sustainable development goals. With the increasing demand for corporate transparency, ethical business practices, and sustainable development, ESG reports have gained significant attention from both academia and practitioners.
+Comprehensive ESG dataset from Chinese listed companies' reports. ESG reports serve as an essential platform for companies to disclose their economic, environmental, and social impacts, reflecting their contributions to sustainable development goals. With the increasing demand for corporate transparency, ethical business practices, and sustainable development, ESG reports have gained significant attention from both academia and practitioners.
 
 1. **Environmental (E):** Data related to environmental factors such as carbon footprint, resource usage, and waste management.
 2. **Social (S):** Data covering social aspects like labor practices, human rights, and community engagement.
@@ -11,8 +11,8 @@ Comprehensive ESG dataset from Chinese listed companies' reports (listed compani
 The dataset consists of two core parts: the topic label dataset and the quality label dataset. Specifically:
 
 Annotated Dataset: A total of 8,467 sentences were annotated, each with two labels: topic and quality.
-Topic Labels: Classified into 37 different categories, covering various aspects such as climate change, employee health and safety, community engagement, and more.
-Quality Labels: Divided into three categories: "Quantitative Text," "Qualitative Text," and "Irrelevant Text."
+Topic Labels: Classified into 36 different categories, covering various aspects such as climate change, employee health and safety, community engagement, and more.
+Quality Labels: Divided into two categories: "Quantitative Text", "Qualitative Text".
 
 ## File Structure
 
