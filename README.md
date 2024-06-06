@@ -7,13 +7,30 @@ Comprehensive ESG dataset from Chinese listed companies' reports. ESG reports se
 3. **Governance (G):** Data on governance issues such as corporate policies, board diversity, and executive compensation.
 
 ## Dataset Description
+Annotated Dataset: A total of 8,467 sentences were annotated, each with two labels:
+The dataset consists of two core parts: the topic label dataset and the quality label dataset. 
 
-The dataset consists of two core parts: the topic label dataset and the quality label dataset. Specifically:
+Topic Labels: Classified into 36 different categories, covering various aspects such as climate change, employee health and safety, community engagement, and more.
+Specifically:
 ![ESGTree](fig/ESGTree.png)
 
-Annotated Dataset: A total of 8,467 sentences were annotated, each with two labels: topic and quality.
-Topic Labels: Classified into 36 different categories, covering various aspects such as climate change, employee health and safety, community engagement, and more.
+The ESGTree provides a structured hierarchy of ESG indicators used in the dataset. Each label in the ESGTree is derived from various authoritative institutions, ensuring comprehensive coverage of ESG factors relevant to Chinese annual reports. The detailed sources of each label can be found in source.xlsx.
+
+
+
+- Sentence Topic Distribution
+
+The bar chart above represents the distribution of sentence topics across the 36 categories. This visualization helps in understanding the prevalence of each topic within the ESG reports.
+
+![ESGTree](fig/ESGTree.png)
+
 Quality Labels: Divided into two categories: "Quantitative Text", "Qualitative Text".
+
+-Sentence Quality Distribution
+
+The bar chart above illustrates the distribution of sentence quality labels within the dataset. It categorizes the sentences into "irrelevant text," "quantitative text," and "qualitative text," with the respective counts for each category.
+
+![ESGTree](fig/ESGTree.png)
 
 ## File Structure
 
